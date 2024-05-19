@@ -1,2 +1,3 @@
 # Sudoku-Solver
-![Sudoku description](https://github.com/Juhyunn0/Sudoku-Solver/assets/133834440/8bcae4aa-727d-4e2c-a917-0000fd84e3fe)
+Sudoku is a combinatorial, logic-based, number-placement puzzle. In classic Sudoku, the objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 sub-grids that compose the grid contain all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a single solution (see Figure 1 below)
+
