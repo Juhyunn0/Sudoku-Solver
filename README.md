@@ -3,10 +3,10 @@ Sudoku is a combinatorial, logic-based, number-placement puzzle. In classic Sudo
  
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![image](https://github.com/Juhyunn0/Sudoku-Solver/assets/133834440/3969077a-f92c-45a2-8a01-f40991ff3c7a)
 
-My task is to implement in Python the following constraint satisfaction problem algorithms:
-Brute force (exhaustive) search algorithm,
-Constraint Satisfaction Problem (CSP) back-tracking search,
-CSP with forward-checking and MRV heuristics
+My task is to implement in Python the following constraint satisfaction problem algorithms:  
+Brute force (exhaustive) search algorithm, <br>
+Constraint Satisfaction Problem (CSP) back-tracking search, <br>
+CSP with forward-checking and MRV heuristics <br>
 
 and apply them to solve the puzzle (provided in a CSV file).
 
